@@ -1,4 +1,3 @@
 #!/bin/bash
-echp "Alx"
-__EOF__
-less alx
+echo "ALX School"
+
